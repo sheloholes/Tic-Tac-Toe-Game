@@ -1,0 +1,31 @@
+#top{
+    display: block;
+    background: rgb(126, 251, 255);
+    margin: 0px 400px 10px 400px;
+    padding:10px;
+    border-radius: 10px;
+}
+#top p{
+    text-align: center;
+    font-size: 25px;
+}
+#btn{
+    padding: 3px 10px 5px 10px;
+}
+.thead{
+    border:1px solid black
+}
+table{
+    border:3px solid black;
+    width: 350px;
+    height: 350px;
+    margin: 50px 0px 0px 450px;
+}
+tr,td{
+    border-bottom:2px solid rgb(0, 0, 0) ;
+    border-left:2px solid rgb(0, 0, 0) ;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    font-size: larger;
+}
